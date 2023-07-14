@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Vourey SP
       image:
         filename: welcome.jpg
       text: |
