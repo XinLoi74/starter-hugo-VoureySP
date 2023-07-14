@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Vourey SP
+        Vourey SP football
       image:
         filename: welcome.jpg
       text: |
